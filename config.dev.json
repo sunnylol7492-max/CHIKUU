@@ -12,8 +12,8 @@
 	"antiInbox": true,
 	"language": "en",
 	"notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-	"nickNameBot": "🦋⃝Aɣʋ𝛅ⴙ Tⴙɑƙʋɼ🦋⃝⎯꯭⟶🐰🚬",
-	"prefix": ".",
+	"nickNameBot": "♡︎𝗠𝗜𝗥𝗔 𝗞𝗜𝗠 𝗥𝗢𝗕𝗢𝗧♡︎🚬",
+	"prefix": "_",
 	"adminOnly": {
 		"enable": false,
 		"ignoreCommand": []
@@ -22,7 +22,7 @@
 		"100073073753019"
 	],
 	"nisanBot": [
-		"30906025725655186"
+		"GROUP_ID"
 	],
 	"notes": "YOUR GROUP ID or Tid ID SET NOW , BECAUSE BOT LOGS MESSAGE SENT YOUR GROUP",
 	"whiteListMode": {
